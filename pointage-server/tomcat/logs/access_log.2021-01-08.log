@@ -1,0 +1,15 @@
+192.168.100.6 - - [08/Jan/2021:00:45:04 +0100] "GET /ws/utilisateur/login/admin HTTP/1.1" 200 1847
+192.168.100.6 - - [08/Jan/2021:00:45:04 +0100] "GET /ws/utilisateur/login/admin HTTP/1.1" 200 1847
+192.168.100.6 - - [08/Jan/2021:00:45:04 +0100] "PUT /ws/utilisateur/maj HTTP/1.1" 200 1863
+192.168.100.6 - - [08/Jan/2021:00:45:05 +0100] "POST /ws/session/ajout HTTP/1.1" 201 2103
+192.168.100.6 - - [08/Jan/2021:00:45:15 +0100] "GET /ws/employe/all HTTP/1.1" 200 11943
+192.168.100.6 - - [08/Jan/2021:00:45:18 +0100] "GET /ws/statut/all HTTP/1.1" 200 757
+192.168.100.6 - - [08/Jan/2021:00:45:18 +0100] "GET /ws/poste/all HTTP/1.1" 200 543
+192.168.100.6 - - [08/Jan/2021:00:45:18 +0100] "GET /ws/unite/all HTTP/1.1" 200 535
+192.168.100.6 - - [08/Jan/2021:00:46:02 +0100] "GET /ws/statut/all HTTP/1.1" 200 757
+192.168.100.6 - - [08/Jan/2021:00:46:02 +0100] "GET /ws/poste/all HTTP/1.1" 200 543
+192.168.100.6 - - [08/Jan/2021:00:46:02 +0100] "GET /ws/unite/all HTTP/1.1" 200 535
+192.168.100.6 - - [08/Jan/2021:00:46:04 +0100] "POST /ws/employe/ajout HTTP/1.1" 201 895
+192.168.100.6 - - [08/Jan/2021:00:46:08 +0100] "POST /ws/employe/ajout HTTP/1.1" 201 895
+192.168.100.6 - - [08/Jan/2021:00:46:08 +0100] "GET /ws/employe/all HTTP/1.1" 200 14480
+192.168.100.6 - - [08/Jan/2021:00:53:04 +0100] "POST /ws/absence/enregistrement-absences HTTP/1.1" 201 -
